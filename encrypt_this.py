@@ -57,5 +57,3 @@ print ('actual result  :' + encrypt_this('Why can we not all be like that wise o
 
 print ('actual result  :' + encrypt_this('Thank you Piotr for all your help') + '\n' +
        'expected result:' + '84kanh 121uo 80roti 102ro 97ll 121ruo 104ple' + '\n')
-
-encrypt_this('') # 
