@@ -38,6 +38,7 @@ def encrypt_this(text):
             out.append(temp) 
     
     #join adding spaces between words and return full encrypted phrase
+    
     return ' '.join(out)
      
 
