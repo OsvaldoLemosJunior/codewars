@@ -1,1 +1,1 @@
-print(divs)
+minutes
