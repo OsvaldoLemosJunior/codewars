@@ -1,2 +1,1 @@
-
-import is forbidden as a part of anti-cheat
+You and you are fired!"
